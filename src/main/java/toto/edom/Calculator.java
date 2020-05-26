@@ -6,5 +6,10 @@ public class Calculator {
 		// TODO Auto-generated method stub
 	    return a + b;
 	}
+	
+	public int mult(int a, int b) {
+		// TODO Auto-generated method stub
+	    return a + b;
+	}
 
 }
