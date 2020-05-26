@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_92\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Edom-Pc\AppData\Local\Temp\surefire4688934063409730497\surefirebooter1164497241804582055.jar C:\Users\Edom-Pc\AppData\Local\Temp\surefire4688934063409730497 2020-05-26T00-11-14_687-jvmRun1 surefire7604725203892139641tmp surefire_0462945708345258714tmp"/>
+    <property name="sun.java.command" value="C:\Users\Edom-Pc\AppData\Local\Temp\surefire2516456343132342201\surefirebooter6581062002593060779.jar C:\Users\Edom-Pc\AppData\Local\Temp\surefire2516456343132342201 2020-05-26T01-14-07_039-jvmRun1 surefire145736034717627929tmp surefire_08988853725439372774tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\Edom-Pc\git\toto.edom\target\test-classes;C:\Users\Edom-Pc\git\toto.edom\target\classes;C:\Users\Edom-Pc\.m2\repository\org\junit\jupiter\junit-jupiter\5.5.1\junit-jupiter-5.5.1.jar;C:\Users\Edom-Pc\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.1\junit-jupiter-api-5.5.1.jar;C:\Users\Edom-Pc\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Edom-Pc\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Edom-Pc\.m2\repository\org\junit\platform\junit-platform-commons\1.5.1\junit-platform-commons-1.5.1.jar;C:\Users\Edom-Pc\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.5.1\junit-jupiter-params-5.5.1.jar;C:\Users\Edom-Pc\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.1\junit-jupiter-engine-5.5.1.jar;C:\Users\Edom-Pc\.m2\repository\org\junit\platform\junit-platform-engine\1.5.1\junit-platform-engine-1.5.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Edom-Pc"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Edom-Pc\AppData\Local\Temp\surefire4688934063409730497\surefirebooter1164497241804582055.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Edom-Pc\AppData\Local\Temp\surefire2516456343132342201\surefirebooter6581062002593060779.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_92\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_92\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_92\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testAddTwoPositiveNumbers" classname="toto.edom.CaculatorTest" time="0.032"/>
+  <testcase name="testAddTwoPositiveNumbers" classname="toto.edom.CaculatorTest" time="0.031"/>
 </testsuite>
