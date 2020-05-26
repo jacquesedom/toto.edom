@@ -9,7 +9,7 @@ public class Calculator {
 	
 	public int mult(int a, int b) {
 		// TODO Auto-generated method stub
-	    return a + b;
+	    return a + b *3;
 	}
 
 }
